@@ -1,67 +1,77 @@
 <!DOCTYPE html>
+
 <html>
+
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width">
     <title>repl.it</title>
     <link href="style.css" rel="stylesheet" type="text/css" />
   </head>
+  
   <body>
-    <script src="script.js"></script>
+    
     <div class="heading">
-    <h1>Bank on Me</h1>
-    <h1>John for Treasurer</h1>
-    <h3>jkim26@bentleyschool.org</h3>
+      <h1>Bank on Me</h1>
+      <h1>John for Treasurer</h1>
+      <h3>jkim26@bentleyschool.org</h3>
     </div>
+    
     <div class="responsive">
-    <img src="https://live.staticflickr.com/65535/51497892608_f55db21f44_o.png" width="474" height="640" class="center">
+      <img src="https://live.staticflickr.com/65535/51497892608_f55db21f44_o.png" width="474" height="640" class="center">
     </div>
+    
     <div class="text">
-    <p>Greetings fellow students of the Bentley community. Thank you for visiting my little website! Learn more about me below and why you should vote for me to be your student council treasurer.</p>
+      <p>Greetings fellow students of the Bentley community. Thank you for visiting my little website! Learn more about me below and why you should vote for me to be your student council treasurer.</p>
     </div>
+    
     <div class="abt">
-    <h1>About Me</h1>
+      <h1>About Me</h1>
     </div>
-      <div class="container">
+    
+    <div class="container">
       <div class="image">
         <img src="https://live.staticflickr.com/65535/51502544065_614843a1aa_o.jpg" width="259" height="500" alt="Snapchat-1547612153">
       </div>
       <div class="text2">
-    <h1>My Personality</h1>
-    <ul>
-      <li>Easy going</li>
-      <li>Considerate</li>
-      <li>Optimistic</li>
-      <li>Conscientious</li>
-      <li>Polite</li>
-      <li>Smart</li>
-      <li>Generous</li>
-    </ul>
+        <h1>My Personality</h1>
+        <ul>
+          <li>Easy going</li>
+          <li>Considerate</li>
+          <li>Optimistic</li>
+          <li>Conscientious</li>
+          <li>Polite</li>
+          <li>Smart</li>
+          <li>Generous</li>
+        </ul>
       </div>
     </div>
+    
     <br>
+    
     <div class="container">
-    <iframe width="740" height="413" src="https://www.youtube.com/embed/L580hauUJUY" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    <div class="text2">
-    <h1>Hobbies &amp; Passions</h1>
-     <ul> 
-      <li>Golfing</li>
-      <li>Gaming</li>
-      <li>Web Development</li>
-      <li>Machine Learning</li>
-      <li>Math</li>
-      <li>Science</li>
-     </ul>
+      <iframe width="740" height="413" src="https://www.youtube.com/embed/L580hauUJUY" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <div class="text2">
+        <h1>Hobbies &amp; Passions</h1>
+          <ul> 
+            <li>Golfing</li>
+            <li>Gaming</li>
+            <li>Web Development</li>
+            <li>Machine Learning</li>
+            <li>Math</li>
+            <li>Science</li>
+          </ul>
+     `</div>
      </div>
-     </div>
+    
     <h1>Why Should You Vote For Me?</h1>
-    <p>Although I can't tell you everything, 	&#40;that's what my speech is for,&#41; I would like to tell you one of my main goals for becoming your treasurer.</p>
-    <p>For one, I don't feel that my fellow students have been properly represented during the pandemic. My friends and I have diffidently had more complaints than usual about how the school is being run. One of my goals is to do my part to give middle schoolers their voice back, so to speak. That means coordinating with everyone every step of the way and push for what they want, during my time in office. When I become treasurer, everyone becomes treasurer.</p>
+    `<p>Although I can't tell you everything, 	&#40;that's what my speech is for,&#41; I would like to tell you one of my main goals for becoming your treasurer.</p>
+    `<p>For one, I don't feel that my fellow students have been properly represented during the pandemic. My friends and I have diffidently had more complaints than usual about how the school is being run. One of my goals is to do my part to give middle schoolers their voice back, so to speak. That means coordinating with everyone every step of the way and push for what they want, during my time in office. When I become treasurer, everyone becomes treasurer.</p>
 
     <h2>Why Run For Treasurer Specifically?</h2>
-    <p>The treasurer is all about money management. Managing cash flow, budgeting, and finnancial planning are a few of the many things a treasurer might be in charge of. Money management is directly tied to math, and as I've said up above, I love math. The role of the treasurer let's me do something that I love and also helps me strive for my goals.</p>
+    `<p>The treasurer is all about money management. Managing cash flow, budgeting, and finnancial planning are a few of the many things a treasurer might be in charge of. Money management is directly tied to math, and as I've said up above, I love math. The role of the treasurer let's me do something that I love and also helps me strive for my goals.</p>
 
     <h1>About This Website</h1>
-    Check out the code for this website <a href="url">here!</a>
+    `<p>This website was made using HTML and CSS, programming languages used to develop websites, web applications, and more. :	&#41; I made all of this in two days! Check out the code for this website z<a href="url">here!</a>
   </body>
 </html>
